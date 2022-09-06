@@ -6,7 +6,7 @@
 
 ## CTF
 
-- [TryHackMe](https://github.com/ishidanow/memo/blob/main/CTF%20(Web)/TryHackMe.md)
+- [TryHackMe](https://github.com/ishidanow/memo/blob/main/CTF/TryHackMe.md)
 
 <details>
 <summary>Web</summary>
