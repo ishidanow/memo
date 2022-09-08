@@ -24,7 +24,11 @@
 <details>
 <summary>Web</summary>
 
-- [Kioptrix Level1](https://github.com/ishidanow/memo/blob/main/CTF%20(Web)/TryHackMe.md)
+- [Kioptrix Level1](https://wanabe-skywalker.hatenablog.com/entry/2020/05/14/191028)
+- [Kioptrix Level2](https://wanabe-skywalker.hatenablog.com/entry/2020/05/19/175338)
+- [Kioptrix Level3](https://wanabe-skywalker.hatenablog.com/entry/2020/06/08/192439)
+- [Kioptrix Level4](https://wanabe-skywalker.hatenablog.com/entry/2020/06/16/111516)
+- [Kioptrix Level5](https://wanabe-skywalker.hatenablog.com/entry/2020/06/16/191506)
 
 </details>
 
