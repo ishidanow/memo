@@ -13,6 +13,7 @@
 - [シェルコード](https://github.com/ishidanow/memo/blob/main/pwn/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89.md)
 - [数値・バイト・文字列の変換](https://github.com/ishidanow/memo/blob/main/pwn/%E6%95%B0%E5%80%A4-%E3%83%90%E3%82%A4%E3%83%88-%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E5%A4%89%E6%8F%9B.md)
 - [スタック構造の把握](https://github.com/ishidanow/memo/blob/main/pwn/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E6%A7%8B%E9%80%A0%E3%81%AE%E6%8A%8A%E6%8F%A1.md)
+- [セキュリティ設定の確認](https://github.com/ishidanow/memo/blob/main/pwn/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E8%A8%AD%E5%AE%9A%E3%81%AE%E7%A2%BA%E8%AA%8D.md)
 
 
 
