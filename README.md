@@ -42,6 +42,6 @@
 <details>
 <summary>AD</summary>
 
-- [Kioptrix Level1](https://github.com/ishidanow/memo/blob/main/CTF%20(Web)/TryHackMe.md)
+- [VulnNet: Roasted](https://github.com/ishidanow/memo/blob/main/CTF/VulnNet:%20Roasted.md)
 
 </details>
