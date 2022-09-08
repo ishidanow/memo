@@ -11,6 +11,8 @@
 - [PLT+GOT](https://github.com/ishidanow/memo/blob/main/pwn/PLT%2BGOT.md)
 - [ガジェット探索](https://github.com/ishidanow/memo/blob/main/pwn/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E6%8E%A2%E7%B4%A2.md)
 - [シェルコード](https://github.com/ishidanow/memo/blob/main/pwn/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89.md)
+- [数値・バイト・文字列の変換](https://github.com/ishidanow/memo/blob/main/pwn/%E6%95%B0%E5%80%A4-%E3%83%90%E3%82%A4%E3%83%88-%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E5%A4%89%E6%8F%9B.md)
+
 
 ## CTF
 
