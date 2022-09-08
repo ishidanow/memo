@@ -7,6 +7,7 @@
 ## pwn
 
 - [AAR/AAW](https://github.com/ishidanow/memo/blob/main/pwn/AAR-AAW.md)
+- [canary](https://github.com/ishidanow/memo/blob/main/pwn/canary.md)
 
 
 ## CTF
