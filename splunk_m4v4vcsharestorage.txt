@@ -1,0 +1,13 @@
+index="vc" host="m4v4vcsharestorage" app=core
+
+2023-02-06T13:18:34.000+00:00
+10.65.0.199
+Bruteforce attempt from "10.65.0.199" detected for action "login".
+
+2023-02-06T13:53:55+00:00
+10.64.0.2
+Bruteforce attempt from "10.64.0.2" detected for action "login".
+
+2023-02-07T12:23:42.000+00:00
+10.64.0.2
+Bruteforce attempt from "10.64.0.2" detected for action "login".
